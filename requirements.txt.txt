@@ -1,0 +1,4 @@
+# requirements.txt
+ortools
+flask
+gunicorn  # Necessário para rodar o Flask de forma estável no Cloud Run
